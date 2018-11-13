@@ -9,10 +9,10 @@ Once a pull request has been accepted, every must sync their branch with the mas
 
 
 PHASE 1:  PLANNING
-- [ ]1.Create empathy maps
-- [ ]1.Create personas
-- [ ]1.Write User Stories
-- [ ]1.USe Cardboard to create a map of the site.
+- Create empathy maps
+- Create personas
+- Write User Stories
+- USe Cardboard to create a map of the site.
 
 Phase 2: Prototyping and Research
 
