@@ -6,3 +6,14 @@ To create a student-focused student-driven website which highlights student achi
 How to use this repo: 
 Clone a copy of your branch. When you have work to apply to the master branch, create a pull request. 
 Once a pull request has been accepted, every must sync their branch with the master.
+
+
+PHASE 1:  PLANNING
+- Create empathy maps
+- Create personas
+- Write User Stories
+- USe Cardboard to create a map of the site.
+
+Phase 2: Prototyping and Research
+
+Phase 3: 
