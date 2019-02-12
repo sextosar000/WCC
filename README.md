@@ -12,7 +12,7 @@ PHASE 1:  PLANNING
 - Create empathy maps
 - Create personas
 - Write User Stories
-- USe Cardboard to create a map of the site.
+- Use Cardboard to create a map of the site.
 
 Phase 2: Prototyping and Research
 
